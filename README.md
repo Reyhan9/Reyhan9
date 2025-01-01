@@ -1,5 +1,5 @@
 ## LosPaulos
-<img src="20250101_171225.png" alt="My Logo" width="900" />
+<img src="20250101_182903.jpg" alt="My Logo" width="900" />
 
 
 
